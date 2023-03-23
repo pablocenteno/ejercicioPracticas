@@ -1,6 +1,7 @@
 package practica;
 
-import practica.Direccion;
+import org.springframework.stereotype.Component;
+
 
 public class DireccionImpl implements Direccion {
 
